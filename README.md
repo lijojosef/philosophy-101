@@ -1,4 +1,4 @@
-# philosophy101WithMathewVarghese
+# philosophy-101
 Blogging website created for a friend. 
 
 > Used boostrap to create the website.   
